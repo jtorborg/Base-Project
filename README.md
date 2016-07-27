@@ -1,4 +1,4 @@
-# This currently project includes:
+# This project currently includes:
 1. index.html
 2. stylesheet.css
 3. app.js
